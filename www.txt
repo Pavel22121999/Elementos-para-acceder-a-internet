@@ -1,0 +1,24 @@
+<html>
+<head></head>
+<body aling="center" background="fondo5.jpg">
+	<h1>World Wide Web</h1>
+	<p>La World Wide Web ' es un medio global de información cuyos usuarios pueden leer y escribir a través de computadoras conectadas a Internet. El término es a menudo usado erróneamente como un sinónimo para la Internet misma, pero la Web es un servicio que opera sobre la Internet, como también lo hace el correo electrónico. La historia de Internet data de un tiempo significativamente anterior a la historia de la World Wide Web. En este relato Leinster estuvo décadas por delante de su tiempo al imaginar Internet.</p>
+	
+	<h1></h1>
+	<p></p>
+	<h1></h1>
+	<p></p>
+	<h1></h1>
+	<p></p>
+	<h1></h1>
+	<p></p>
+	<h1></h1>
+	<p></p>
+	<h1></h1>
+	<p></p>
+	<h1></h1>
+	<p></p>
+	
+
+</body>
+</html>

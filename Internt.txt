@@ -1,0 +1,26 @@
+<html>
+<head></head>
+<body>
+
+	<h1>Los elementos m&aacute;s importantes de internet</h1>
+	<h1>1.- La nube</h1>
+	<p>La nube es una colección de computadoras interconectadas con un protocolo de redes específico.
+
+Este protocolo permite la transmisión de datos, que pueden ser sitios web, correos electrónicos, sonido o video.</p>
+	<h1>2.- Conexion</h1>
+	<p></p>
+	<h1>3.- Navegador</h1>
+	<p></p>
+	<h1>4.- Usuario</h1>
+	<p></p>
+	<h1>5.- P&aacute;gina web</h1>
+	<p></p>
+	<h1>6.- Redes sociales</h1>
+	<p></p>
+	<h1>7.- Buscadores</h1>
+	<p></p>
+	<h1>8.- Correo electronico</h1>
+	<p></p>
+
+</body>
+</html>
